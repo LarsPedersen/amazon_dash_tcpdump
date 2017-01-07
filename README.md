@@ -1,4 +1,4 @@
-﻿### A simple Amazon Dash Button Iot implementation for Raspberry Pi using Python and tcpdump.
+﻿### A simple Amazon Dash Button IOT implementation for Raspberry Pi using Python and tcpdump.
 
 Being intimidated by the rather high price of various wifi based Iot buttons, which was in the range of 45$-69$ [1btn](https://www.crowdsupply.com/knewron/1btn), [bt.tn](https://bt.tn/shop/) and [Particle Internet Button](https://store.particle.io/#internet-button), I purchased a couple of 5$ Amazon Dash buttons in order to make cheap Internet buttons for various Iot projects. One idea was to make a button at the main entrance that would turn off all lights when leaving home - just to get started.
 
